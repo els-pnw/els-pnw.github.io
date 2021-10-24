@@ -1,4 +1,6 @@
 # Twitter Sentiment Analysis
 ## A Short Introduction
 
-** Project Description: ** 
+**Project Description:** 
+
+**Project Artifacts:** 
