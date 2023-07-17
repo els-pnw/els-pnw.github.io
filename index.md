@@ -1,19 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
-
-## [Twitter Sentiment Analysis](/projects/twitter-sentiment)
-<img src="images/Analyze Twitter Data.png?raw=true"/>
-
-## [PyTest Marker For Bugzilla](https://github.com/els-pnw/pytest_marker_bugzilla/)
-<br>
-A project that enables software engineers to assign a bugzilla number to a particular test.  Once assigned the test will run or skip based on the status of bug.  The status of the bug is determined via a real-time look up of the bugzilla.
-
-**Note** The project has gone somewhat stale as technologies have evolved since the projects initial development.
-
-## [Bike Share Analysis in R](https://github.com/els-pnw/bike_share_analysis/blob/main/bike_share_analysis.html)
+## Projects 
+### [Bike Share Analysis in R](https://github.com/els-pnw/bike_share_analysis/blob/main/bike_share_analysis.html)
 
 An R project that I did as part of my Google Analytics curriculum. This is my first ever R project. I really enjoyed learning about RStudio and love the ease with which reports can be generated directly from source using common markdown.
 
@@ -22,6 +12,17 @@ The report is available [here](https://htmlpreview.github.io/?https://github.com
 <img src="images/Screenshot%202023-07-17%20at%204.36.58%20PM.png" width="300" height="200">
 <img src="images/Screenshot%202023-07-17%20at%204.37.30%20PM.png" width="300" height="200">
 <img src="images/Screenshot%202023-07-17%20at%204.37.42%20PM.png" width="300" height="200">
+
+### [Twitter Sentiment Analysis](/projects/twitter-sentiment)
+
+<img src="images/Analyze Twitter Data.png" width="325" height="300">
+
+
+### [PyTest Marker For Bugzilla](https://github.com/els-pnw/pytest_marker_bugzilla/)
+<br>
+A project that enables software engineers to assign a bugzilla number to a particular test.  Once assigned the test will run or skip based on the status of bug.  The status of the bug is determined via a real-time look up of the bugzilla.
+
+**Note** The project has gone somewhat stale as technologies have evolved since the projects initial development.
 
 ---
 ### Datacamp Projects
