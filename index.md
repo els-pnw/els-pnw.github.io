@@ -26,17 +26,17 @@ A project that enables software engineers to assign a bugzilla number to a parti
 
 ---
 ### Datacamp Projects
-[Risk and Returns: The Sharpe Ratio](https://app.datacamp.com/workspace/w/d6c10d08-cbbd-4004-99e5-f1f5e2be44b3/)
+#### [Risk and Returns: The Sharpe Ratio](https://app.datacamp.com/workspace/w/d6c10d08-cbbd-4004-99e5-f1f5e2be44b3/)
 
-[Generating Keywords for Google Ads](https://app.datacamp.com/workspace/w/f73cd631-7037-4f26-a242-e38e4ddc764e/)
+#### [Generating Keywords for Google Ads](https://app.datacamp.com/workspace/w/f73cd631-7037-4f26-a242-e38e4ddc764e/)
 
-[Real-time Insights from Social Media Data](https://app.datacamp.com/workspace/w/a10123cb-b35a-434c-989d-9ab329c98163)
+#### [Real-time Insights from Social Media Data](https://app.datacamp.com/workspace/w/a10123cb-b35a-434c-989d-9ab329c98163)
 
-[Tweet classification: Trump vs. Trudeau](https://app.datacamp.com/workspace/w/34d81ab5-21cd-41fe-b59b-53d5cd78c9fe)
+#### [Tweet classification: Trump vs. Trudeau](https://app.datacamp.com/workspace/w/34d81ab5-21cd-41fe-b59b-53d5cd78c9fe)
 
 ---
-### Presentations
-[Introduction to Pandas](https://github.com/els-pnw/QECamp19-Intro-to-pandas/)
+## Presentations
+### [Introduction to Pandas](https://github.com/els-pnw/QECamp19-Intro-to-pandas/)
 <br>
 A presentation I did for our 2019 Software Quality Engineering conference (QE Camp).  
 
